@@ -1,0 +1,6 @@
+/__pycache__
+results*
+.idea
+*.pt
+nn_characterization/images
+tests/
